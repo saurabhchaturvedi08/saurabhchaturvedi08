@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saurabh
-- 👀 I’m interested in Mobile and Web App Development, also have some interest in data science and machine learning.
-- 🌱 I’m currently learning backend (web development) and data science.
-- 💞️ I’m looking to collaborate on web application development and also on some data science project.
+- 👀 I’m currently working on Data Science and Machine Learning, also have some interest in Mobile and Web App Development.
+- 🌱 I’m currently learning Deep Learning and NLP.
+- 💞️ I’m looking to collaborate on Machine Learning and data science project.
 - 📫 How to reach me 
 -              @LinkedIn - https://www.linkedin.com/in/saurabh-chaturvedi-2aa859210
 
