@@ -4,7 +4,7 @@ Hey there! 👋 I'm Saurabh, a passionate and results-driven Software Engineer w
 Artificial Intelligence and Machine Learning. Currently, I'm making waves as a Machine Learning Engineer 
 cum Software Engineer at Vremember Technologies, where I've had the exciting opportunity to contribute to AI and software projects.
 
-🔍 Project Experiences and Expertise:
+🔍 Experiences and Expertise:
 
 🚀 AI/ML Specialist: At Vremember Technologies, I've delved into the realm of AI, contributing to projects
 that involve implementing cutting-edge algorithms. Specifically, I have hands-on experience with Natural Language Processing (NLP),
