@@ -2,7 +2,7 @@
 
 👋 Hello there!
 
-I'm Saurabh, a passionate AI Engineer with over a year of dedicated experience in developing and deploying advanced AI-driven solutions. Currently, I'm making significant contributions at Vremember Technologies, where I lead AI product development and software engineering projects, leveraging my expertise in machine learning, deep learning, and generative AI.
+I'm Saurabh, a passionate Software Engineer delivering scalable, AI-driven and full-stack solutions. At Vremember Technologies, I lead software development projects and AI product initiatives, combining strong software engineering fundamentals with practical AI/ML integration.
 
 🔍 Experience and Expertise:
 
