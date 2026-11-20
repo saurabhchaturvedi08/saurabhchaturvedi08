@@ -22,6 +22,8 @@ I'm Saurabh, a passionate Software Engineer delivering scalable, AI-driven and f
 
 [@LinkedIn - https://www.linkedin.com/in/saurabh-chaturvedi-2aa859210]
 
+[@Portfolio - https://saurabhchaturvedi.dev/]
+
 Looking forward to connecting with fellow tech enthusiasts and building something amazing! 💻✨
 
 <!---
